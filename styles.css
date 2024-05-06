@@ -173,7 +173,10 @@ p {
 }
 
 .imagen img {
-  width: 35vw;
+  /* width: 35vw;
+  height: 80vh; */
+  width: 450px;
+  height: 450px;
   border-radius: 50%;
   margin-top: 3rem;
 }
@@ -1003,11 +1006,11 @@ ul {
   }
 
   .imagen {
-    margin-top: 4.7rem;
+    margin-top: 3rem;
   }
 
   .imagen img{
-    width: 45vw;
+    width: 55vw;
     margin-top: 0;
   }
 
@@ -1134,7 +1137,8 @@ ul {
   }
 
   .imagen img {
-    width: 80vw;
+    width: 90vw;
+    height: 50vh;
   }
 
   .tarjetas {
